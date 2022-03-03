@@ -1,5 +1,5 @@
 from datetime import datetime
-PRICE_PER_SONG = 1.20
+PRICE_PER_SONG = 3
 
 
 class Song:

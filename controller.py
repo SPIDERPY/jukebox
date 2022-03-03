@@ -1,3 +1,4 @@
+from django.db import reset_queries
 from vue import Speakers, Touchscreen
 from vue import CoinBox
 from card import PRICE_PER_SONG, Library

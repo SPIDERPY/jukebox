@@ -1,4 +1,3 @@
-"""la vue du jukbox""""
 
 
 class Touchscreen:
