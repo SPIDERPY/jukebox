@@ -1,5 +1,5 @@
 class Controller:
-    """Contrôleur principal."""
+
     
     def __init__(self):
         """Initialise les modèles et les vue"""
